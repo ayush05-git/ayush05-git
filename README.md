@@ -47,7 +47,7 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/ayush-ghosh-871254322">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/ayush-ghosh-871254322/">LinkedIn</a> • 
   <a href="mailto:ayushghosh05122005@outlook.com">Email</a>
 </p>
 
